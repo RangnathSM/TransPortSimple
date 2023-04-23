@@ -1,0 +1,1596 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.transport{
+    width: 1520px;
+}
+.homepage{
+    width: 1520px;
+}
+.nav {
+    background-color: white;
+}
+.logo{
+    margin-left: 20px;
+}
+.app
+{
+    margin-left: 140px;
+}
+.app ul li a{
+    margin-left: 25px;
+    font-weight: bold;
+    color: black;
+}
+.app ul li a:hover{
+    color: rgb(138, 7, 195);
+}
+.demo button
+{
+    margin-left: 405px;
+    color: white;
+    background-color: rgb(12, 12, 118);
+    width: 120px;
+    height: 38px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+}
+.homepage 
+{
+    display: flex;
+    
+}
+.content
+{
+    margin-left: 90px;
+    margin-top: 60px;
+    
+}
+.heading
+{
+    margin-top: 80px;
+}
+.heading h1
+{
+    font-weight: bold;
+    width: 700px;
+    font-size: 40px;
+}
+.para p
+{
+   width: 400px;
+   font-size: 20px;
+}
+.Yellow{
+    color: white;
+    background-color: orange;
+    width: 100px;
+    height: 38px;
+    border-radius: 5px;
+    border: none;
+}
+.con{
+    margin-left: 20px;
+    color: orange;
+    background-color:white ;
+    width: 100px;
+    height: 38px;
+    border-radius: 5px;
+    border: 2px solid orange;
+}
+.blue
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+}
+.blue img
+{
+   width: 680px;
+   height: 630px;
+   border-radius: 60px;
+   margin-left: 70px;
+   transform: rotate(-1deg);
+   margin-top: 10px;
+}
+
+
+.one img
+{
+    border-radius: 400px;
+    width: 140px;
+    height: 140px;
+    position: relative;
+    z-index: 1;
+    top: 330px;
+    left: 220px;
+}
+.two img{
+    border-radius: 400px;
+    width: 200px;
+    height: 200px;
+    left: 380px;
+    position: relative;
+    z-index: 1;
+}
+.three img{
+    border-radius: 400px;
+    width: 200px;
+    height: 200px;
+    left: 450px;
+    top:70px;
+    position: relative;
+    z-index: 1;
+}
+.four img
+{
+    border-radius: 400px;
+    width: 170px;
+    height: 170px;
+    top: -450px;
+    left: 180px;
+    position: relative;
+    z-index: 1;
+}
+
+.five img
+{
+    border-radius: 400px;
+    width: 170px;
+    height: 170px;
+    position: relative;
+    z-index: 1;
+    top: -450px;
+}
+.six img
+{
+    border-radius: 400px;
+    width: 110px;
+    height: 110px;
+    position: relative;
+    z-index: 1;
+    top: -800px;
+    left: 570px;
+}
+.bottom
+{
+    height: 300px;
+    margin-top: -400px;
+    transform: rotate(5deg);
+    position: relative;
+    z-index: 1;
+    left: -800px;
+    top: -100px;
+    border-radius: 30px;
+}
+.bottom img{
+    height: 200px;
+}
+
+.bar h1
+{
+    color: rgb(52, 52, 207);
+    font-size: 120px;
+    margin-top: -25px;
+}
+.simple span{
+    color: rgb(31, 151, 237);
+}
+.simple h1
+{
+    width: 580px;
+}
+.At
+{
+    display: flex;
+}
+.paragraph p{
+    width: 380px;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.539);
+    margin-left: 35px;
+}
+.round
+{
+    background-color: rgba(128, 128, 128, 0.107);
+    border-radius: 400px;
+    height:500px ;
+    width: 500px;
+    align-items: center;
+    margin-top: -50px;
+    margin-left: 40px;
+    
+}
+.round img
+{
+    border-radius: 400px;
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 50px;
+    position: absolute;
+   
+}
+.company 
+{
+    display: flex;
+    margin-top: -150px;
+    margin-left: 100px;
+}
+.section0{
+    margin-left: 80px;
+    width: 1520px;
+}
+.truck
+{
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+    padding: 50px;
+    height: 120px;
+    width: 700px;
+    box-shadow: 0px 1px 1px 1px;
+    position: relative;
+    z-index: 1;
+    right: 800px;
+    background-color: white;
+    top: 300px;
+    margin-left: 20px;
+}
+
+.truck1{
+    padding: 30px;
+    box-shadow: 1px
+}
+.truck2{
+    padding: 30px;
+    box-shadow: 1px
+}
+.truck3{
+    padding: 30px;
+    box-shadow: 1px
+}
+.truck4{
+    padding: 30px;
+    box-shadow: 1px
+}
+.truck1 h1
+{
+    font-size: 20px;
+}
+.truck2 h1
+{
+    font-size: 20px;
+}
+.truck1 span
+{
+    color: rgb(31, 151, 237);
+    margin-left: 30px;
+    height: 60px;
+    width: 50px;
+}
+.truck2 span
+{
+    color: rgb(31, 151, 237);
+    margin-left: 30px;
+    height: 60px;
+    width: 50px;
+}
+.truck3 span
+{
+    color: rgb(31, 151, 237);
+    margin-left: 30px;
+    height: 60px;
+    width: 50px;
+}
+.truck4 span
+{
+    color: rgb(31, 151, 237);
+    margin-left: 30px;
+    height: 60px;
+    width: 50px;
+}
+.truck3 h1
+{
+    font-size: 20px;
+}
+.truck4 h1
+{
+    font-size: 20px;
+}
+.truck1 h6{
+    margin-left: 8px;
+    font-size: 15px;
+}
+
+.truck2 h6{
+    margin-left: 8px;
+    font-size: 15px;
+}
+.truck3 h6{
+    margin-left: 8px;
+    font-size: 15px;
+    
+}
+.truck4 h6{
+    margin-left: 8px;
+    font-size: 15px;
+}
+.steps{
+    margin-top: 30px;
+}
+.steps h2
+{
+    margin-left: 600px;
+}
+.steps h1
+{
+    align-items: center;
+    justify-content: center;
+    width: 480px;
+    font-size: 35px;
+    margin-left: 550px;
+    text-decoration: underline blue;
+}
+/* .hor
+{
+    width: 500px;
+    height: 500px;
+    margin-left: 480px;
+    color: rgb(7, 7, 83);
+    
+} */
+.division {
+    margin-left: -50px;
+}
+.section1
+{
+    width: 1520px;
+}
+.section2{
+    margin-top: 40px;
+    width: 1520px;
+}
+.orange{
+    background-color: rgb(251, 152, 53);
+    border-radius: 40px;
+    height: 80px;
+    width: 80px;
+    position: relative;
+    z-index: 1;
+    left: 250px;
+    top: 120px;
+}
+.tech{
+    /* position: absolute; */
+    height: 500px;
+    width: 300px;
+    border-radius: 80px;
+    margin-top: 148px;
+}
+.tech p
+{
+    width: 285px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 45px;
+    font-size: 16px;
+}
+.orange h1
+{
+color: white;
+font-size: 25px;
+margin-left: 25px;
+margin-top: 25px;
+left: 100px;
+
+}
+.ora h1{
+    color: white;
+    font-size: 25px;
+    margin-left: 25px;
+    margin-top: 25px;
+    left: 100px;
+}
+.ora{
+    background-color: rgb(251, 152, 53);
+    border-radius: 40px;
+    height: 80px;
+    width: 80px;
+    position: relative;
+    z-index: 1;
+    left: 250px;
+    top: 80px;
+}
+.oran h1{
+    color: white;
+    font-size: 25px;
+    margin-left: 25px;
+    margin-top: 25px;
+    left: 100px;
+}
+.oran{
+    background-color: rgb(251, 152, 53);
+    border-radius: 40px;
+    height: 80px;
+    width: 80px;
+    position: relative;
+    z-index: 1;
+    left: 250px;
+    top: 120px;
+}
+
+.req h3
+{
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    font-size: 25px;
+    margin-left: 45px;
+}
+.req img{
+    height: 150px;
+    width:150px;
+    margin-left: 100px;
+}
+
+.wait{
+    position: absolute;
+    height: 550px;
+    width: 300px;
+    border-radius: 80px;
+    margin-top: 100px;
+}
+.Free p{
+    width: 300px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 55px;
+    font-size: 16px;
+}
+.Free h3{
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    font-size: 25px;
+    margin-left: 75px;
+}
+.Free img{
+    height: 140px;
+    width:140px;
+    margin-left: 120px;
+    margin-top:100px ;
+}
+
+.team h3{
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    font-size: 25px;
+    margin-left: 45px;
+}
+.section2{
+    background-color: white;
+    width: 1520px;
+}
+.team  img{
+    height: 150px;
+    width:150px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.support{
+    position: absolute;
+    height: 500px;
+    width: 300px;
+    border-radius: 80px;
+    margin-top: 148px;
+}
+.team h3{
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    font-size: 25px;
+    margin-left: 80px;
+}
+.team p
+{
+    width: 295px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 45px;
+    font-size: 16px;
+}
+.Book
+{
+    background-color: rgb(53, 53, 236);
+    height: 400px;
+    width: 1520px;
+    padding: 50px;
+    margin-top: 50px;
+}
+.more h1
+{
+    color: white;
+    font-size: 25px;
+    margin-left: 420px;
+    margin-top: 50px;
+}
+.more p {
+    color: white;
+    width: 750px;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.bookdemo
+{
+    margin-left: 650px;
+    width: 600px;
+}
+.section3
+{
+margin-top: 50px;
+width: 1520px;
+}
+.us span{
+    color: rgb(87, 87, 255);
+}
+.us h1{
+    margin-left: 450px;
+}
+.industry img
+{
+    height: 300px;
+    width: 350px;
+}
+.industry h4
+{
+    margin-left: 40px;
+}
+.benefits
+{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 60px;
+}
+.section4{
+    margin-top: 50px;
+    background-color: rgba(128, 128, 128, 0.078);
+    height: 400px;
+    width: 1520px;
+}
+.investor
+{
+    
+    display: flex;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.invest span
+{
+    color: rgb(70, 70, 249);
+}
+.invest h1
+{
+    margin-left: 550px;
+    margin-top: 80px;
+    padding: 30px;
+}
+.realtime img
+{
+    height: 100px;
+    width: 280px;
+}
+.realtime h4{
+    color: rgba(0, 0, 0, 0.281);
+    margin-left: 20px;
+}
+
+.upekkha img {
+    height: 100px;
+    width: 200px;
+}
+.upekkha {
+    margin-left: 100px;
+}
+.upekkha h4{
+    text-decoration: overline black;
+    width: 300px;
+}
+.Atal img{
+    height: 150px;
+    width: 150px;
+    border-radius: 90px;
+}
+.Atal{
+    display: flex;
+    margin-left: 20px;
+}
+.Atal h1
+{
+    width: 300px;
+}
+.singh img
+{
+    height: 150px;
+    width: 150px;
+    border-radius: 400px;
+    
+}
+.singh h1{
+  width: 200px;
+}
+.singh{
+    display: flex;
+    
+}
+.section5
+{
+    height: 400px;
+    width: 1520px;
+    width: 1520px;
+}
+
+.mentor span {
+color: rgb(70, 70, 249);
+}
+.mentor h1
+{
+    padding: 30px;
+    margin-left: 550px;
+    margin-top: 40px;
+}
+.our {
+    display: flex;
+    margin-left: 300px;
+}
+.tenthousand img{
+   height: 400px;
+   width: 400px;
+   margin-top: -65px;
+   border-radius:500px;
+}
+.iimb img {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.achieve span{
+    color: rgb(70, 70, 249);
+}
+.achieve h1
+{
+    margin-left: 550px;
+    margin-top: 50px;
+}
+.section6{
+    background-color: white;
+    width: 1520px;
+}
+.use img
+{
+    border-radius: 10px;   
+    height: 500px;
+    width: 790px; 
+    margin-top: -30px;
+}
+.use
+{
+    height: 640px;
+    width: 800px;
+    padding: 1.5em .5em .5em;
+    border-radius: 50px;
+    /* text-align: center; */
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    margin-left: 40px;
+}
+.use p{
+    width: 500px;
+}
+/* .fleet {
+    background-color: white;
+    
+} */
+.award
+{
+    margin-left: 20px;
+}
+.award img 
+{
+    height: 200px;
+    width: 250px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.aside img
+{
+    height: 202px;
+    width: 250px;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.aside{
+    display: flex;
+    flex-direction: column;
+    margin-top: -15px;
+}
+
+.news
+{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.footer
+{
+    height: 550px;
+    width: 1520px;
+    background-color: rgb(25, 44, 88);
+    margin-top: 80px;
+    
+}
+.u h1
+{
+    color: white;
+}
+.broadway p{
+    color: white;
+    width: 180px;
+    margin-top: 50px;
+}
+.regus p {
+    color: white;
+    width: 210px;
+    margin-top: 50px;
+}
+.ny p{
+    color: white;
+    width: 185px;
+}
+.u p{
+    color: rgba(255, 255, 255, 0.299);
+    font-size: 15px;
+}
+.usa 
+{
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.countries
+{
+    display: flex;
+    margin-left: 60px;
+}
+.help {
+    color: white;
+    margin-left: 35px;
+}
+.help p{
+    color: rgba(255, 255, 255, 0.338);
+}
+.help span {
+    background-color: red;
+    border-radius: 15px;
+}
+.general {
+    color: white;
+    margin-left: -30px;
+}
+.general p {
+    color: rgba(255, 255, 255, 0.338);
+    margin-left: 60px;
+}
+.general img{
+    height: 80px;
+    width: 80px;
+    margin-left: 30px;
+    margin-top: -30px;
+}
+.gen h6
+{
+    margin-left: -20px;
+}
+
+.gen{
+    display: flex;
+}
+.join 
+{
+    color: white;
+    margin-left: 50px;
+}
+.join p {
+    color: rgba(255, 255, 255, 0.338);
+    
+}
+.join span{
+    background-color: red;
+    border-radius: 15px;
+}
+.mails 
+{
+    display: flex;
+    margin-left: 80px;
+    margin-top: -30px;
+}
+.form
+{
+    height: 300px;
+    width: 350px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.foot 
+{
+    display: flex;
+}
+.type input
+{
+    height: 100px;
+    width: 290px;
+}
+.sub button{
+    color: white;
+    width: 290px;
+    border: none;
+    background-color: orange;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.hori h4
+{
+    color: rgba(255, 255, 255, 0);
+    text-decoration: underline 1px white;
+    left: 120px;
+    top: -50px;
+    position: relative;
+    z-index: 1;
+}
+
+.google
+{
+    /* display: flex; */
+}
+.logos {
+    display: flex;
+    margin-left: -10px;
+}
+.face img
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 400px;
+    margin-left: 125px;
+}
+.in img {
+    height: 50px;
+    width: 50px;
+    border-radius: 400px;
+    margin-left: 10px;
+}
+.youtube img {
+    height: 50px;
+    width: 75px;
+    border-radius: 400px;
+}
+.play img 
+{
+    margin-left: 30px;
+    margin-top: -5px;
+}
+
+.smalllinks {
+    display: flex;
+    color: rgba(255, 255, 255, 0.326);
+    margin-left: 110px;
+}
+.privacy p {
+    margin-left: 30px;
+}
+.Employee p {
+    margin-left: 30px;
+}
+.copy p {
+    margin-left: 620px;
+}
+.dare
+{
+    display: flex;
+    margin-left: 50px;
+    
+}
+.dare h4
+{
+    color: white;
+    margin-left: 60px;
+}
+.google{
+    display: flex;
+}
+.fbinyu{
+    display: flex;
+}
+
+@media only screen and (max-width:675px){
+    .homepage{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+    }
+    .content
+    {
+        margin-top: 20px;
+    }
+    .heading h1{
+        width: 400px;
+        font-size: 28px;
+        margin-left: -60px;
+    }
+    .para p{
+        width: 400px;
+        font-size: 20px;
+        margin-left: -60px;
+    }
+    .get{
+        margin-left: -60px;
+    }
+    
+    .blue img
+    {
+        
+        width: 200px;
+        height: 340px;
+        margin-top: 300px;
+        margin-left: 280px;
+    }
+    .bott img
+    {
+        visibility: hidden;
+    }
+
+    .images
+    {
+        margin-top: -100px;
+    }
+     
+    .one img {
+        width: 100px;
+        height: 100px;
+        margin-left: -50px;
+        margin-top: 60px;
+    }
+    .two img{
+        width: 150px;
+        height: 150px;
+        margin-left: -120px;
+        margin-top: 80px;
+    }
+    .three img{
+        width: 150px;
+        height: 150px;
+        margin-left: -180px;
+        margin-top: 40px;
+        background: url('/public/images/bott.png');
+    }
+    .four img {
+        width: 120px;
+        height: 120px;
+        margin-top: 140px;
+        margin-left: -80px;
+    }
+    .five img {
+        width: 120px;
+        height: 120px;
+        margin-left: 20px;
+        margin-top: 30px;
+    }
+    .six img {
+        width: 60px;
+        height: 60px;
+        margin-left: -200px;
+        margin-top: -20px;
+    }
+    
+    
+
+}
+
+@media only screen and (max-width:400px){
+    *{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    
+    
+    .homepage{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+    }
+    .content
+    {
+        margin-top: 20px;
+       
+    }
+    
+    .heading h1{
+        width: 400px;
+        font-size: 25px;
+        margin-left: -60px;
+    }
+    .para p{
+        width: 300px;
+        font-size: 15px;
+        margin-left: -60px;
+    }
+    .get{
+        margin-left: -60px;
+    }
+    
+    .blue img
+    {
+        
+        width: 150px;
+        height: 350px;
+        margin-top: 230px;
+        margin-left: 300px;
+        border-radius: 60px;
+        
+    }
+    .bott img
+    {
+        visibility: hidden;
+    }
+
+    .images
+    {
+        margin-top: -100px;
+        
+    }
+     
+    .one img {
+        width: 80px;
+        height: 80px;
+        margin-left: -50px;
+        margin-top: 60px;
+    }
+     .two img{
+        width: 120px;
+        height: 120px;
+        margin-left: -150px;
+        margin-top: 80px;
+    }
+    .three img{
+        width: 120px;
+        height: 120px;
+        margin-left: -180px;
+        margin-top: 40px;
+        background: url('/public/images/bott.png');
+    }
+    .four img {
+        width: 100px;
+        height: 100px;
+        margin-top: 140px;
+        margin-left: -100px;
+    }
+    .five img {
+        width: 100px;
+        height: 100px;
+        margin-left: 20px;
+        margin-top: 30px;
+    }
+    .six img {
+        width: 60px;
+        height: 60px;
+        margin-left: -250px;
+        margin-top: 90px;
+    } 
+
+    .company
+    {
+        margin-left: -60px;
+        display: block;
+
+    }
+    .bar h1
+    {
+       size: 1px;
+       height: 1px;
+    }
+    .simple h1{
+        font-size: 20px;
+        width: 300px;
+    }
+    .simple h5{
+        font-size: 10px;
+        width: 300px;
+    }
+    .paragraph p{
+        width: 300px;
+    }
+    .section1{
+        
+        background: none;
+        margin-top: 50px;
+
+    }
+    .round{
+        width: 320px;
+        height: 320px;
+        border-radius: 200px;
+        margin-left: 100px;
+    }
+    .round img{
+        height: 250px;
+        width: 250px;
+        border-radius: 200px;
+        margin-top: 35px;
+        margin-left: 35px;
+        justify-content: center;
+    }
+    .truck
+    {
+        
+        top: -150px;
+        left: 80px;
+        width: 320px;
+        height: 100px;
+        padding: 50px;
+        
+    }
+    .truck1 span{
+        margin-left: -30px;
+    }
+    .truck1 h1{
+        font-size: 15px;
+        margin-left: -45px;
+    }
+    .truck1 h6{
+        font-size: 10px;
+        margin-left: -40px;
+    }
+    .truck2 span{
+        margin-left: -30px;
+    }
+    .truck2 h1{
+        font-size: 15px;
+        margin-left: -45px;
+    }
+    .truck2 h6{
+        font-size: 10px;
+        margin-left: -40px;
+    }
+    .truck3 span{
+        margin-left: -30px;
+    }
+    .truck3 h1{
+        font-size: 15px;
+        margin-left: -45px;
+    }
+    .truck3 h6{
+        font-size: 10px;
+        margin-left: -40px;
+    }
+    .truck4 span{
+        margin-left: -30px;
+    }
+    .truck4 h1{
+        font-size: 15px;
+        margin-left: -45px;
+    }
+    .truck4 h6{
+        font-size: 10px;
+        margin-left: -40px;
+    }
+    .steps{
+        margin-left: -510px;
+    }
+    .steps h2
+    {
+        font-size: 20px;
+    }
+    .steps h1
+    {
+        width: 350px;
+        font-size: 25px;
+    }
+    .tech{
+        margin-left: 75px;
+        width: 350px;
+        margin-top: -30px;
+    }
+    
+   .req p{
+    margin-left: 15px;
+   }
+    .req h3{
+        font-size: 23px;
+        margin-left: 22px;
+        
+    }
+    .req img{
+        margin-left: 80px;
+        border-radius: 50px;
+        height: 150px;
+        width: 150px;
+    }
+    .orange
+    {
+        height: 60px;
+        width: 60px;
+        top: -10px;
+        margin-left: -35px;
+        border-radius: 100px;
+        
+    }
+    .orange h1{
+        margin-top: 20px;
+        margin-left: 8px;
+        padding: 10px;
+    }
+    .wait{
+        margin-left: 75px;
+        width: 350px;
+        margin-top: -30px;
+    }
+    
+   .Free p{
+    margin-left: 15px;
+   }
+    .Free h3{
+        font-size: 23px;
+        margin-left: 22px;
+        
+    }
+    .Free img{
+        margin-left: 80px;
+        border-radius: 50px;
+        height: 150px;
+        width: 150px;
+    }
+    .ora
+    {
+        height: 60px;
+        width: 60px;
+        top: -10px;
+        margin-left: -35px;
+        border-radius: 100px;
+        
+    }
+    .ora h1{
+        margin-top: 20px;
+        margin-left: 8px;
+        padding: 10px;
+    }
+    .support{
+        margin-left: 75px;
+        width: 350px;
+        margin-top: -30px;
+    }
+    
+   .team p{
+    margin-left: 15px;
+   }
+    .team h3{
+        font-size: 23px;
+        margin-left: 22px;
+        
+    }
+    .team img{
+        margin-left: 80px;
+        border-radius: 50px;
+        height: 150px;
+        width: 150px;
+    }
+    .oran
+    {
+        height: 60px;
+        width: 60px;
+        top: -10px;
+        margin-left: -35px;
+        border-radius: 100px;
+        
+    }
+    .oran h1{
+        margin-top: 20px;
+        margin-left: 8px;
+        padding: 10px;
+    }
+    .division{
+        margin-top: 50px;
+    }
+    .Book{
+        height: 400px;
+        width: 400px;
+    }
+    .more h1{
+        font-size: 15px;
+        width:500px;
+        margin-left: -30px;
+    }
+    .more p{
+        margin-left: -5px;
+        font-size: 15px;
+        width: 300px;
+    }
+    .bookdemo
+    {
+        margin-left: 95px;
+    }
+    .us h1
+    {
+        margin-left: 20px;
+        font-size: 24px;
+    }
+    .benefits
+    {
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+    }
+    .industry
+    {
+        justify-content: center;
+        align-items: center;
+        margin-left: 30px;
+    }
+    .industry h4{
+        font-size: 20px;
+    }
+    .industry img{
+        height: 280px;
+        width: 280px;
+    }
+    .section4{
+        height: 750px;
+        width: 400px;
+    }
+    .investor
+    {
+        display: block;
+    }
+    .invest h1{
+        margin-left:65px;
+    }
+    .realtime
+    {
+        margin-top: -60px;
+        margin-left: 25px;
+    }
+    .realtime img
+    {
+        height: 100px;
+        width: 230px;
+    }
+    .upekkha
+    {
+        margin-top: 60px;
+        margin-left: 35px;
+    }
+    .upekkha img
+    {
+        height: 80px;
+        width: 190px;
+    }
+    .Atal
+    {
+        margin-top: 60px;
+        margin-left: 35px;
+        margin-left: 25px;
+    }
+    .Atal img
+    {
+        height: 100px;
+        width: 140px;
+    }
+    .Atal h1
+    {
+        font-size: 20px;
+        width: 100px;
+    }
+    .singh
+    {
+        margin-top: 60px;
+        margin-left: 35px;
+        margin-left: 25px;
+    }
+    .singh img
+    {
+        height: 120px;
+        width: 120px;
+        border-radius: 400px;
+    }
+    .singh h1
+    {
+        font-size: 25px;
+        width: 100px;
+        margin-left: 5px;
+    }
+
+    .section5
+    {
+        height: 600px;
+        width: 400px;
+    }
+    .our
+    {
+        display: block;
+    }
+    .mentor h1
+    {
+      margin-left: 75px;
+    }
+    .tenthousand img
+    {
+        height: 300px;
+        width: 300px;
+        margin-left: -260px;
+        margin-top: 10px;
+    }
+    .iimb img{
+        height: 100px;
+        width: 245px;
+        margin-left: -230px;
+        margin-top: 10px;
+    }
+    .section6
+    {
+        height: 900px;
+        width: 400px;
+    }
+    .achieve h1{
+        margin-left: 60px;
+        width: 300px;
+        font-size: 25px;
+    }
+    .news
+    {
+        display: block;
+    }
+    .use{
+        width: 360px;
+        height: 350px;
+        margin-left: -180px;
+    }
+    .use img
+    {
+        width: 360px;
+        height: 250px;
+        margin-left: -10px;
+    }
+    .use h3
+    {
+        font-size: 20px;
+    }
+    .use p
+    {
+        width: 320px;
+        font-size: 10px;
+    }
+    .award 
+    {
+        display: flex;
+        margin-left: -200px;
+    }
+    .award img
+    {
+        height: 160px;
+        width: 170px;
+        border-radius: 5px;
+
+    }
+    .a4
+    {
+        visibility: hidden;
+    }
+    .aside
+    {
+        display: flex;
+        flex-direction: row;
+        margin-left: -200px;
+        margin-top: 5px;
+        
+    }
+    .aside img
+    {
+        height: 160px;
+        width: 170px;
+        border-radius: 5px;
+        margin-left: 20px;
+        
+    }
+    .some 
+    {
+        display: flex;
+        margin-top: 180px;
+        margin-left: -380px;
+    }
+    .footer{
+        width: 400px;
+        height: 1800px;
+    }
+    .countries
+    {
+        display: block;
+        margin-top: 30px;
+        padding: 10px;
+        margin-left: -50px;
+        height: 500px;
+    }
+    .foot
+    {
+        display: block;
+    }
+    .login{
+        margin-top: 240px;
+        margin-left: -75px;
+    }
+    .hori h4{
+        width: 200px;
+        margin-top: -300px;
+        margin-left: -120px;
+    }
+    .mails
+    {
+        display: block;
+        margin-top: 300px;
+        margin-left: -15px;
+        padding: 20px;
+    }
+    .gen{
+        margin-left: 8px;
+    }
+    .google
+    {
+        display: block;
+    }
+    .gen img
+    {
+        border-radius: 30px;
+        height: 75px;
+        width: 75px;
+    }
+    .join{
+     margin-left: 32px;
+    }
+    .dare
+    {
+        display: block;
+        margin-left: -20px;
+    }
+    .fbinyu
+    {
+        display: flex;
+    }
+    .logos
+    {
+        display: block;
+        margin-top: 30px;
+    }
+    .play 
+    {
+     margin-left: 85px;
+     margin-top: 20px;
+    }
+    .smalllinks
+    {
+        display: block;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    .site
+    {
+        margin-left: 30px;
+    }
+}
